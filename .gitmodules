@@ -1,0 +1,6 @@
+[submodule "basecamp-reloaded"]
+	path = basecamp-reloaded
+	url = https://github.com/astahjmo/basecamp-reloaded
+[submodule "basecamp-42sp"]
+	path = basecamp-42sp
+	url = https://github.com/astahjmo/basecamp-42sp
